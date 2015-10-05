@@ -9,7 +9,7 @@ UX Strategy | UX Design | Service Design | Concept Development | Brand Developme
 
 ## UX Design Immersive Student
 #### General Assembly Chicago -- 2015
-- Stepping into an immersive course for user experience design at General Assembly provided me with the tools and processes necessary to become a pensive and logic-driven user experience architect.
+Stepping into an immersive course for user experience design at General Assembly provided me with the tools and processes necessary to become a pensive and logic-driven user experience architect.
 - Mastered user flow diagramming
 - Designed a concept validation platform and created its deployment strategy. Client plans to build and deploy by end of fourth quarter 2015.
 - Redesigned the guest experience for a hotel chain* targeting millennial business travelers. Started by eliminating the major pain point of check-in/out
