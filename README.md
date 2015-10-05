@@ -2,6 +2,7 @@
 Jack Wangelin's Résumé
 
 # Jack Wangelin
+## User Experience Strategist in Chicago, IL
 
 ### TOOLKIT
 UX Strategy | UX Design | Service Design | Concept Development | Brand Development  Visual Design | Mobile Design | Web Design | Project Management
