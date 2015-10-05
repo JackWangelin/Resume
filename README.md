@@ -8,7 +8,7 @@ Jack Wangelin's Résumé
 UX Strategy | UX Design | Service Design | Concept Development | Brand Development  Visual Design | Mobile Design | Web Design | Project Management
 
 ## Co-Founder
-#### &UX
+#### &UX  -- 2015
 &UX is about more than just collecting connections. We’re starting small, but focusing on a good experience: come grab a beer or a bite, meet up, & find your next partner, mentor, or share how you are already... &UX.
 
 Learn more and [Join &UX](http://www.meetup.com/andUXCHI)
