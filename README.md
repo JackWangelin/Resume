@@ -7,11 +7,17 @@ Jack Wangelin's Résumé
 ### TOOLKIT
 UX Strategy | UX Design | Service Design | Concept Development | Brand Development  Visual Design | Mobile Design | Web Design | Project Management
 
+## Co-Founder
+#### &UX
+&UX is about more than just collecting connections. We’re starting small, but focusing on a good experience: come grab a beer or a bite, meet up, & find your next partner, mentor, or share how you are already... &UX.
+
+Learn more and [Join &UX](http://www.meetup.com/andUXCHI)
+
 ## UX Design Immersive Student
 #### General Assembly Chicago -- 2015
 Stepping into an immersive course for user experience design at General Assembly provided me with the tools and processes necessary to become a pensive and logic-driven user experience architect.
 - Mastered user flow diagramming
-- Designed a concept validation platform and created its deployment strategy. Client plans to build and deploy by end of fourth quarter 2015.
+- Designed a concept validation platform and created its deployment strategy. Client plans to build and deploy by end of fourth quarter 2015
 - Redesigned the guest experience for a hotel chain* targeting millennial business travelers. Started by eliminating the major pain point of check-in/out
 - Collaborated with front-end developers to create a deployable MVP in an experimental cross-immersive program project
 * Designed an online checkout flow to allow user to review purchase, set billing and shipping address, pay, and create an account in two steps
